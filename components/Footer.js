@@ -1,5 +1,6 @@
-import React from 'react'
 import { SiPkgsrc } from "react-icons/si";
+import Link from 'next/link';
+
 export default function Footer() {
   return (
 <footer class="text-gray-600 body-font">

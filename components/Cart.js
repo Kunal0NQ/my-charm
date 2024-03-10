@@ -1,5 +1,5 @@
-import React from 'react'
-
+import Image from 'next/image';
+import Link from 'next/link';
 export default function Cart() {
   return (
     <div class="relative z-10" aria-labelledby="slide-over-title" role="dialog" aria-modal="true">

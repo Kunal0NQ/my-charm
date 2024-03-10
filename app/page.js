@@ -1,4 +1,3 @@
-import Masonry from "@/components/Masonary";
 import Image from "next/image";
 import { LiaTshirtSolid } from "react-icons/lia";
 import { MdWatch } from "react-icons/md";

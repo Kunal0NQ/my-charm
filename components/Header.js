@@ -1,5 +1,8 @@
 import React from "react";
 import { SiPkgsrc } from "react-icons/si";
+import Image from 'next/image';
+import Link from 'next/link';
+
 export const Header = () => {
   return (
     <header class="text-gray-600 body-font mt-6">
