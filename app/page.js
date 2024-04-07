@@ -4,6 +4,7 @@ import { MdWatch } from "react-icons/md";
 import { CiMobile3 } from "react-icons/ci";
 import { PiSneakerMove } from "react-icons/pi";
 import Link from 'next/link';
+import OrderBucket from "@/components/OrderBucket";
 
 export default function Home() {
   return (
@@ -259,6 +260,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <OrderBucket />
     </main>
   );
 }
